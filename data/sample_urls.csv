@@ -1,0 +1,9 @@
+url,label
+"https://www.google.com",legitimate
+"https://paypal.com",legitimate
+"http://verify-paypal-account.com/login",phishing
+"http://amazon-login-security-update.com",phishing
+"https://bankofamerica.com",legitimate
+"http://bankofamerica.verifylogin.info",phishing
+"https://update-your-bank-info.netlify.app",phishing
+"https://microsoft.com",legitimate

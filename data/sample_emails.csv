@@ -1,0 +1,9 @@
+email_text,label
+"Verify your account immediately to avoid suspension",phishing
+"Your payment has been declined, click here to update",phishing
+"Meeting rescheduled to tomorrow at 10 AM",legitimate
+"Your invoice for last month is attached",legitimate
+"Update your password or your account will be locked",phishing
+"Congratulations! You have won a free gift card",phishing
+"Project report attached, please review",legitimate
+"Your Amazon order has been shipped",legitimate
