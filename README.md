@@ -1,6 +1,6 @@
 ## Contact
 
-Utkarsh Shukla
+**Utkarsh Shukla**
 
 Email- utqrshkumar07@gmail.com
 
@@ -47,7 +47,7 @@ Create a virtual environment.
 Install dependencies
 
 
-## For First Installation
+## Installation
 git clone https://github.com/Utkarshshukla4/url_phish_detector.git
 
 cd url_phish_detector
@@ -70,11 +70,11 @@ pip install -r requirements.txt
 
 
 ## Running the Project
-Windows:
+_Windows:_
 
 python src\url_detector.py
 
-Linux / macOS:
+_Linux / macOS:_
 
 python3 src\url_detector.py
 
