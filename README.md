@@ -40,9 +40,9 @@ Install dependencies
 
 
 ## For First Installation
-git clone https://github.com/Utkarshshukla4/email-phish-detector.git
+git clone https://github.com/Utkarshshukla4/url_phish_detector.git
 
-cd email-phish-detector
+cd url_phish_detector
 
 
 ## Windows
@@ -62,10 +62,10 @@ pip install -r requirements.txt
 
 
 ## Running the Project
-Windows
+Windows:
 
 python main.py
 
-Linux / macOS
+Linux / macOS:
 
 python3 main.py
