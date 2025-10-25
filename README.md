@@ -41,24 +41,31 @@ Install dependencies
 
 ## For First Installation
 git clone https://github.com/Utkarshshukla4/email-phish-detector.git
+
 cd email-phish-detector
 
 
 ## Windows
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
 
 
 ## Linux / macOS
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install -r requirements.txt
 
 
 ## Running the Project
 Windows
+
 python main.py
 
 Linux / macOS
+
 python3 main.py
