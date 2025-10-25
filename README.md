@@ -17,7 +17,7 @@ It can process single URLs or batches efficiently.
 - CLI interface  
 - Cross-platform (Windows/Linux)
 
--  **Architecture Diagram:**   
+## Architecture:  
 
 [URL Input]
       ↓
