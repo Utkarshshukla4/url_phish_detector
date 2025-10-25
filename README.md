@@ -1,3 +1,11 @@
+## Contact
+
+Utkarsh Shukla
+
+Email- utqrshkumar07@gmail.com
+
+GitHub- https://github.com/Utkarshshukla4
+
 ##  Overview
 This project identifies malicious or phishing URLs by analyzing domain patterns, special characters, and length-based features.  
 It can process single URLs or batches efficiently.
@@ -64,8 +72,20 @@ pip install -r requirements.txt
 ## Running the Project
 Windows:
 
-python main.py
+python src\url_detector.py
 
 Linux / macOS:
 
-python3 main.py
+python3 src\url_detector.py
+
+
+## Input Example
+https://secure-login-update.freehoster.com
+
+## Output Example
+Prediction: Malicious URL
+Confidence: 89%
+
+## Summary
+
+This detector identifies fake websites by analyzing URL structures, IPs, and domain patterns.
