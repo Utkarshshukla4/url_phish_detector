@@ -101,6 +101,8 @@ This detector identifies fake websites by analyzing URL structures, IPs, and dom
 
 **Utkarsh Shukla**
 
+_Cybersecurity Enthusiast_
+
 Email- utqrshkumar07@gmail.com
 
 GitHub- https://github.com/Utkarshshukla4
