@@ -1,10 +1,3 @@
-## Contact
-
-**Utkarsh Shukla**
-
-Email- utqrshkumar07@gmail.com
-
-GitHub- https://github.com/Utkarshshukla4
 
 ##  Overview
 This project identifies malicious or phishing URLs by analyzing domain patterns, special characters, and length-based features.  
@@ -16,6 +9,16 @@ It can process single URLs or batches efficiently.
 - Batch URL scanning  
 - CLI interface  
 - Cross-platform (Windows/Linux)
+
+## What This Does
+
+-Scans URLs before access and checks for phishing indicators.
+
+-Uses trained models to detect anomalies like suspicious domain names, length, and encoding.
+
+-Prevents credential theft and fake login page attacks.
+
+-Works as a browser-level or API-based protection tool.
 
 ## Architecture:  
 
@@ -87,8 +90,17 @@ https://secure-login-update.freehoster.com
 
 ## Output Example
 Prediction: Malicious URL
+
 Confidence: 89%
 
 ## Summary
 
 This detector identifies fake websites by analyzing URL structures, IPs, and domain patterns.
+
+## Contact
+
+**Utkarsh Shukla**
+
+Email- utqrshkumar07@gmail.com
+
+GitHub- https://github.com/Utkarshshukla4
